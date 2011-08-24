@@ -1,3 +1,7 @@
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "HAML"]
+	path = HAML
+	url = https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle.git
+  ignore = dirty
