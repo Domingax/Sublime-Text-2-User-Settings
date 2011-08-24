@@ -5,3 +5,6 @@
 	path = HAML
 	url = https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle.git
   ignore = dirty
+[submodule "SCSS"]
+	path = SCSS
+	url = https://github.com/kuroir/SCSS.git
