@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+shift+t"], "command": "print_theme_rule"}
+]
