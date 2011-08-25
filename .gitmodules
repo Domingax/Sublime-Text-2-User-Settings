@@ -8,3 +8,4 @@
 [submodule "SCSS"]
 	path = SCSS
 	url = git://github.com/kuroir/SCSS.git
+  ignore = dirty

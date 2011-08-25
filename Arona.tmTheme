@@ -219,7 +219,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#DF5F5F</string><!-- red -->
+                <string>#562D56</string><!-- red -->
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
