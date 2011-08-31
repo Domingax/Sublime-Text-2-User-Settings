@@ -1,6 +1,7 @@
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+	ignore = dirty
 [submodule "HAML"]
 	path = HAML
 	url = https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle.git
@@ -9,3 +10,15 @@
 	path = SCSS
 	url = git://github.com/kuroir/SCSS.git
   ignore = dirty
+[submodule "SublimeCodeIntel"]
+	path = SublimeCodeIntel
+	url = git://github.com/Kronuz/SublimeCodeIntel.git
+	ignore = dirty
+[submodule "SLIM"]
+	path = SLIM
+	url = git://github.com/fredwu/ruby-slim-tmbundle.git
+	ignore = dirty
+[submodule "rspec"]
+	path = rspec
+	url = https://github.com/rspec/rspec-tmbundle
+	ignore = dirty
