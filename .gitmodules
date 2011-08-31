@@ -6,10 +6,6 @@
 	path = HAML
 	url = https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle.git
   ignore = dirty
-[submodule "SCSS"]
-	path = SCSS
-	url = git://github.com/kuroir/SCSS.git
-  ignore = dirty
 [submodule "SublimeCodeIntel"]
 	path = SublimeCodeIntel
 	url = git://github.com/Kronuz/SublimeCodeIntel.git
@@ -22,3 +18,6 @@
 	path = rspec
 	url = https://github.com/rspec/rspec-tmbundle
 	ignore = dirty
+[submodule "SCSS"]
+	path = SCSS
+	url = https://github.com/kuroir/SCSS.git
