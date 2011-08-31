@@ -18,6 +18,3 @@
 	path = rspec
 	url = https://github.com/rspec/rspec-tmbundle
 	ignore = dirty
-[submodule "SCSS"]
-	path = SCSS
-	url = https://github.com/kuroir/SCSS.git
