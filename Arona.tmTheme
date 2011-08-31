@@ -12,7 +12,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#001417</string><!-- very dark blue-black -->
+                <string>#191919</string><!-- very dark blue-black -->
                 <key>caret</key>
                 <string>#B7CEEB</string><!-- light blue -->
                 <key>foreground</key>
@@ -25,6 +25,10 @@
                 <string>#606060</string><!-- dark gray -->
                 <key>selection</key>
                 <string>#123466</string><!-- dark blue -->
+                <key>guideColor</key>
+                <string>#252525</string><!-- gray-black -->
+                <key>guideWidth</key>
+                <string>1</string><!-- width in pixels -->
             </dict>
         </dict>
         <dict>
@@ -219,11 +223,11 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#562D56</string><!-- red -->
+                <string>#562D56BF</string><!-- red -->
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#FAFAD2</string><!-- light yellow -->
+                <string>#000000</string><!-- light yellow -->
             </dict>
         </dict>
         <dict>
